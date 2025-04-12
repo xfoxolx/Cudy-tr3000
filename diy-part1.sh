@@ -17,6 +17,6 @@
 # add vpn
 echo "src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main" >> "feeds.conf.default"
 # add store
-echo 'src-git istore https://github.com/linkease/istore;main' >> feeds.conf.default
+echo 'src-git istore https://github.com/xfoxolx/istore.git;main' >> feeds.conf.default
 
 
