@@ -18,6 +18,4 @@
 echo "src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main" >> "feeds.conf.default"
 # add store
 echo 'src-git istore https://github.com/xfoxolx/istore.git;main' >> feeds.conf.default
-# add filetransfer
-echo 'src-git filetransfer https://github.com/f8q8/luci-app-filetransfer.git;master' >> feeds.conf.default
 
